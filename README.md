@@ -2,6 +2,8 @@
 
 This is a Python program that generates ASCII art from an input image. The program uses the Pillow library to resize the image, convert it to grayscale, and convert each pixel to a string of ASCII characters.
 
+<img src= "https://user-images.githubusercontent.com/78276530/226111681-9855dff7-8d1e-446e-8dde-409221274daa.png" width='600' >
+
 ## Getting Started
 
 ### Prerequisites
